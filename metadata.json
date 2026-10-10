@@ -1,0 +1,6 @@
+{
+  "name": "Moin & Rozmeen — Wedding Invitation",
+  "description": "Premium cinematic Islamic wedding invitation for the Nikaah & Walima ceremony of Moin and Rozmeen in Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
